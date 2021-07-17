@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Parastoo Taleiniya.
-- 👀 I’m interested in back-end technologies and ml.
-- 🌱 I’m currently learning node.js and ml.
+- 👀 I’m interested in back-end technologies and blockchain.
+- 🌱 I’m currently learning node.js and blockcgain.
 - 💞️ I’m looking to collaborate on ...?
 - 📫 mail: taliniya.sbu@gmail.com
 
